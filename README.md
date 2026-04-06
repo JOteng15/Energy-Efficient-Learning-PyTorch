@@ -21,6 +21,9 @@ A principled energy accounting system that assigns costs to:
 - Backward passes (~3x forward cost)
 - Weight updates (proportional to number of parameters updated)
 
+### More comments
+As stated above, currently working on this still. Some parameters require tuning, upon eyeballing the
+comparison graphs!!
 
 
 ## Architecture
