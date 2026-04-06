@@ -1,5 +1,5 @@
 # Energy-Aware Training Framework
-Currently working this project which is inspired by these two papers (Pache & van Rossum (2023): Metabolic cost of synaptic plasticity in biological systems and Progressive Data Dropout: An Embarrassingly Simple Approach to Train Faster), which is essentially a unified framework for energy-efficient deep learning that jointly optimises **which data** and **which weights** are updated during training, using metabolic energy as the governing design constraint.
+Currently working on this project which is inspired by these two papers (Pache & van Rossum (2023): Metabolic cost of synaptic plasticity in biological systems and Progressive Data Dropout: An Embarrassingly Simple Approach to Train Faster), which is essentially a unified framework for energy-efficient deep learning that jointly optimises **which data** and **which weights** are updated during training, using metabolic energy as the governing design constraint.
 
 ## Core Components
 
